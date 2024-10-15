@@ -1,0 +1,37 @@
+{
+    "py/object": "entity.VoiceInteraction.VoiceAction",
+    "name": "",
+    "level": "",
+    "type": "",
+    "judge": "",
+    "keys": "",
+    "actions": [
+        {
+            "py/object": "entity.VoiceInteraction.VoiceAction",
+            "name": "打开csdn",
+            "level": "1",
+            "type": "",
+            "judge": "打开csdn。",
+            "keys": "https://www.csdn.net/",
+            "actions": []
+        },
+        {
+            "py/object": "entity.VoiceInteraction.VoiceAction",
+            "name": "打开百度",
+            "level": "1",
+            "type": "",
+            "judge": "打开百度。",
+            "keys": "https://www.baidu.com",
+            "actions": []
+        },
+        {
+            "py/object": "entity.VoiceInteraction.VoiceAction",
+            "name": "打开b站",
+            "level": "1",
+            "type": "",
+            "judge": "打开b站。",
+            "keys": "https://www.bilibili.com/",
+            "actions": []
+        }
+    ]
+}

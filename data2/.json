@@ -1,0 +1,19 @@
+{
+    "py/object": "entity.VoiceInteraction.VoiceAction",
+    "name": "",
+    "level": "",
+    "type": "",
+    "judge": "",
+    "keys": "",
+    "actions": [
+        {
+            "py/object": "entity.VoiceInteraction.VoiceAction",
+            "name": "打开百度",
+            "level": "1",
+            "type": "",
+            "judge": "打开百度。",
+            "keys": "www.baidu.com",
+            "actions": []
+        }
+    ]
+}

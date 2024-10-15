@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>image/position.png</file>
+    <file>image/R-C.png</file>
+    <file>image/OIP-C.jpg</file>
+    <file>image/beijing1.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/icon_1.png</file>
+    <file>icons/icon_3.png</file>
+    <file>icons/icon_2.png</file>
+    <file>icons/aikj.png</file>
+  </qresource>
+</RCC>

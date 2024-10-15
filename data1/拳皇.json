@@ -1,0 +1,55 @@
+{
+    "py/object": "entity.software.Software",
+    "name": "拳皇",
+    "image": "",
+    "type": "",
+    "description": "攻击动作",
+    "actions": [
+        {
+            "py/object": "entity.action.Action",
+            "name": "出拳",
+            "level": "1",
+            "type": "",
+            "judge": {
+                "py/object": "entity.judge.Judge",
+                "positions": [],
+                "angles": [
+                    {
+                        "py/object": "entity.angle.Angle",
+                        "description": "",
+                        "organ1": "14",
+                        "organ2": "12",
+                        "organ3": "14",
+                        "organ4": "16",
+                        "angle1": "150",
+                        "angle2": "180"
+                    }
+                ]
+            },
+            "keys": "j"
+        },
+        {
+            "py/object": "entity.action.Action",
+            "name": "下蹲",
+            "level": "1",
+            "type": "",
+            "judge": {
+                "py/object": "entity.judge.Judge",
+                "positions": [],
+                "angles": [
+                    {
+                        "py/object": "entity.angle.Angle",
+                        "description": "",
+                        "organ1": "25",
+                        "organ2": "23",
+                        "organ3": "25",
+                        "organ4": "27",
+                        "angle1": "10",
+                        "angle2": "90"
+                    }
+                ]
+            },
+            "keys": "s"
+        }
+    ]
+}

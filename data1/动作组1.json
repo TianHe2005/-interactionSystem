@@ -1,0 +1,42 @@
+{
+    "py/object": "entity.software.Software",
+    "name": "动作组1",
+    "image": "",
+    "type": "",
+    "description": "下蹲计数",
+    "actions": [
+        {
+            "py/object": "entity.action.Action",
+            "name": "下蹲",
+            "level": "1",
+            "type": "",
+            "judge": {
+                "py/object": "entity.judge.Judge",
+                "positions": [],
+                "angles": [
+                    {
+                        "py/object": "entity.angle.Angle",
+                        "description": "",
+                        "organ1": "25",
+                        "organ2": "23",
+                        "organ3": "25",
+                        "organ4": "27",
+                        "angle1": "10",
+                        "angle2": "90"
+                    },
+                    {
+                        "py/object": "entity.angle.Angle",
+                        "description": "",
+                        "organ1": "26",
+                        "organ2": "24",
+                        "organ3": "26",
+                        "organ4": "28",
+                        "angle1": "10",
+                        "angle2": "90"
+                    }
+                ]
+            },
+            "keys": "s"
+        }
+    ]
+}
